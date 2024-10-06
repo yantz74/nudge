@@ -31,7 +31,7 @@ You can print, build, and deploy a Nudge in as little as one hour, with only $10
 
 ![](Images/all_parts.png)
 
-Build it using the instructions in this repo, or with [this video]((https://youtu.be/6eRomxUo7TI).  Yes, it used to have a 'y' at the end of the name.  Note also that this video is slightly out of date - for example, now, Nudge has a straight-through JST, rather than a right-angle JST, and plastic to ensure the horizontal screws stay aligned.
+Build it using the instructions in this repo, or with [this video](https://youtu.be/6eRomxUo7TI).  Yes, it used to have a 'y' at the end of the name.  Note also that this video is slightly out of date - for example, now, Nudge has a straight-through JST, rather than a right-angle JST, and plastic to ensure the horizontal screws stay aligned.
 
 [![](Images/yt_thumb.png)](https://youtu.be/6eRomxUo7TI)
 
